@@ -12,7 +12,7 @@
 
 ## Admin Panel
 - /admin diyerek admin panel giriş sayfası açılır.
-- admin@admin : adminadmin bilgileriyle giriş yapılır.
+- admin@admin.com : adminadmin bilgileriyle giriş yapılır.
 - users tablosunda role 0 ise normal kullanı, 1 ise admin kullanıcı olur.
 
 ## License
