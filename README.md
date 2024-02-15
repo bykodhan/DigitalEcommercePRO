@@ -6,6 +6,7 @@
 
 ## Kurulum
 - digitalpro.sql dosyası phpmyadmin ile import edilir.
+- composer install ile bağımlılıklar yüklenir.
 - .env dosyasına database bilgileri girilir.
 - php artisan serve diyerek ayağa kaldırılır.
 
